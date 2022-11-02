@@ -205,6 +205,9 @@ document.querySelector("#app").innerHTML = `
           "final",
           creatGame("a confirmar", "12:00", "a confirmar")
         )}
-
+        <div id="horario">
+          <p>Todos os horários estão no horário de Brasília</p>
+        </div>
       </main>
+
 `
