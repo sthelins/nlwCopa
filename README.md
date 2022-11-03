@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  Esse projeto tem como proposta um calendário de jogos da copa 2022. Foi criado do zero com o professor *[@Mayk Brito](https://github.com/maykbrito)*.
  <br>
 
-link do projeto:
+link do projeto: https://sthelins.github.io/nlwCopa/
 
 ## 🔖 Layout
 
