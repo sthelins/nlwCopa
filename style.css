@@ -44,8 +44,7 @@ body * {
   font-family: "Roboto", sans-serif;
 }
 
-#app,
-footer {
+#app {
   width: fit-content;
   margin: auto;
   padding-top: 52px;
@@ -160,11 +159,30 @@ header {
     opacity: 1;
   }
 }
+footer {
+  width: fit-content;
+  margin: auto;
+  padding-top: 52px;
+  text-align: center;
+}
 
 #horario p {
   margin-top: 40px;
   margin-bottom: 60px;
   color: var(--text-color);
+  font-size: 18px;
+}
+
+#info {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding-bottom: 10px;
+}
+#info p,
+#info a {
+  color: var(--text-color);
+  font-size: 15px;
 }
 
 @media (min-width: 700px) {
