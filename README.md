@@ -25,10 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Esse projeto é um calendário de jogos da copa 2022. As datas e horários dos jogos foram inseridos manualmente mas de uma forma dinâmica utilizando o JavaScript.
+ Esse projeto tem como proposta um calendário de jogos da copa 2022. Foi criado do zero com o professor *[@Mayk Brito](https://github.com/maykbrito)*.
  <br>
 
-link do projeto:
+link do projeto: https://sthelins.github.io/nlwCopa/
 
 ## 🔖 Layout
 
