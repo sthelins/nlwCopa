@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Esse projeto é um calendário de jogos da copa 2022. As datas, horários e jogos foram inseridos manualmente mas de uma forma dinâmica utilizando o JavaScript.
+ Esse projeto é um calendário de jogos da copa 2022. As datas e horários dos jogos foram inseridos manualmente mas de uma forma dinâmica utilizando o JavaScript.
  <br>
 
 link do projeto:
