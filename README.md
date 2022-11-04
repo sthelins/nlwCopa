@@ -10,7 +10,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-![image](https://user-images.githubusercontent.com/102331975/199823209-db084423-90ab-46f9-8fa7-1c69c0322daf.png)
+![image](https://user-images.githubusercontent.com/102331975/200048086-c071f6d0-9c85-4147-8605-ee9772ad2783.png)
 
 
 <br>
