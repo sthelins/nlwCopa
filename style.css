@@ -132,16 +132,36 @@ header {
 
   color: var(--text-color);
 }
+.card .nome-times {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.card .nome-times h3 {
+  font-size: 12px;
+  color: var(--text-color);
+  text-transform: capitalize;
+}
+
+.card .img-bandeira {
+  width: 60px;
+  height: 60px;
+}
 
 .card h2:hover,
 .card ul li strong:hover,
-.card ul li img:hover {
+.card ul li img:hover,
+.card h3:hover {
   transform: scale(1.1);
 }
 
 .card h2,
 .card ul li strong,
-.card ul li img {
+.card ul li img,
+.card h3 {
   transition: transform 0.3s;
 }
 
