@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Esse projeto tem como proposta um calendário de jogos da copa 2022. Foi criado do zero com o professor *[@Mayk Brito](https://github.com/maykbrito)*.
+ Esse projeto tem como proposta um calendário de jogos da copa 2022 responsivo. Foi criado do zero com o professor *[@Mayk Brito](https://github.com/maykbrito)*.
  <br>
 
 link do projeto: https://sthelins.github.io/nlwCopa/
@@ -34,6 +34,13 @@ link do projeto: https://sthelins.github.io/nlwCopa/
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+
+## Toques especiais
+
+Algumas coisas nesse projeto não estava no layout. Adicionei:
+- Nome de cada bandeira
+- informações nos cards se eram oitavas de finais, quartas de finais e etc.
+- footer
 
 ---
 
